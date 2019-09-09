@@ -10,3 +10,7 @@ Please use the Docker image nginx:mainline-alpine or nginx:stable-alpine https:/
 Grav https://getgrav.org/
 
 Wallabag https://www.wallabag.org/ (with SQLite)
+
+## Usage
+
+please see the docker-compose.yml for basic usage as an example based on a Grav installation https://getgrav.org
