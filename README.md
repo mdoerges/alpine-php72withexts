@@ -7,4 +7,4 @@ Based on Docker image php:72-fpm-alpine with additional PHP modules
 
 Grav https://getgrav.org/
 
-Wallabag https://www.wallabag.org/
+Wallabag https://www.wallabag.org/ (with SQLite)
