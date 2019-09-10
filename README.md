@@ -13,4 +13,4 @@ Please use the Docker image [nginx:mainline-alpine](https://hub.docker.com/_/ngi
 
 ## Usage
 
-please see the [docker-compose.yml](https://github.com/mdoerges/alpine-php72withexts/blob/master/docker-compose.yml) for basic usage as an example based on a [Grav](https://getgrav.org) installation
+please see [docker-compose.yml](https://github.com/mdoerges/alpine-php72withexts/blob/master/docker-compose.yml) for basic usage as an example based on a [Grav](https://getgrav.org) installation
