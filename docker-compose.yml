@@ -9,16 +9,16 @@ services:
     restart: always
     ports:
       - 80:80
-# Comment out for https
+# Uncomment for https
 #      - 443:443
     networks:
       - default
     volumes:
       - /path/to/nginx-config:/etc/nginx
       - /path/to/webroot:/var/www
-# Comment out for Let's Encrypt
+# Uncomment for Let's Encrypt
 #      - /path/to/webroot/letsencrypt:/var/letsencrypt
-# Comment out for Let's Encrypt files
+# Uncomment for Let's Encrypt files
 #      - /path/to/nginx-conf/letsencrypt:/etc/nginx/ssl:ro
     container_name: nginx
     
