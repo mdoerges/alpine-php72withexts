@@ -5,7 +5,7 @@ Based on Docker image [php:7.2-fpm-alpine](https://hub.docker.com/_/php) with ad
 
 Please use the Docker image [nginx:mainline-alpine](https://hub.docker.com/_/nginx) or [nginx:stable-alpine](https://hub.docker.com/_/nginx) for the web server part
 
-## Please take care that PHP7.2 is out of support. So no security updates anymore.
+## Please take care that PHP 7.2 is out of support. So there are no security updates available anymore.
 
 ## Can be used with
 
